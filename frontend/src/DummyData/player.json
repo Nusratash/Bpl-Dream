@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "price": 500,
+    "image": "/virat.png",
+    "battingType": "Left-Handed",
+    "bowlingType": "Left-Arm Spin"
+  },
+  {
+    "id": 2,
+    "name": "Sakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "price": 1000,
+    "image": "/sakib.jpeg",
+    "battingType": "Right-Handed",
+    "bowlingType": "Right-Arm Medium"
+  },
+  {
+    "id": 3,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batter",
+    "price": 700,
+    "image": "/tamim.jpeg",
+    "battingType": "Right-Handed",
+    "bowlingType": "Right-Arm Off Spin"
+  },
+  {
+    "id": 4,
+    "name": "Mushfiq",
+    "country": "Bangladesh",
+    "role": "Wicket Kipper",
+    "price": 700,
+    "image": "/muchfiq.jpeg",
+    "battingType": "Right-Handed",
+    "bowlingType": "Right-Arm Off Spin"
+  }
+]
