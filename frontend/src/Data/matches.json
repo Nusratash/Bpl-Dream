@@ -1,0 +1,8 @@
+[
+  { "id": 1, "teamA": "Dhaka Dominators", "teamB": "Chattogram Challengers", "venue": "Shere Bangla Stadium, Dhaka", "date": "2026-11-05", "time": "14:00" },
+  { "id": 2, "teamA": "Rangpur Riders", "teamB": "Sylhet Strikers", "venue": "Sylhet International Stadium", "date": "2026-11-06", "time": "19:00" },
+  { "id": 3, "teamA": "Khulna Tigers", "teamB": "Rajshahi Royals", "venue": "Sheikh Abu Naser Stadium, Khulna", "date": "2026-11-08", "time": "14:00" },
+  { "id": 4, "teamA": "Comilla Victorians", "teamB": "Dhaka Dominators", "venue": "Shere Bangla Stadium, Dhaka", "date": "2026-11-09", "time": "19:00" },
+  { "id": 5, "teamA": "Chattogram Challengers", "teamB": "Rangpur Riders", "venue": "Zohur Ahmed Chowdhury Stadium", "date": "2026-11-11", "time": "14:00" },
+  { "id": 6, "teamA": "Sylhet Strikers", "teamB": "Khulna Tigers", "venue": "Sylhet International Stadium", "date": "2026-11-12", "time": "19:00" }
+]

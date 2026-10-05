@@ -6,15 +6,12 @@ import Newsletter from "../components/Newsletter";
 
 export default function Page() {
   return (
-    <>
     <main className="min-h-screen bg-white">
       <Navbar />
-      <Hero/>
-      <Card/>
-      <Newsletter/>
+      <Hero />
+      <Card />
+      <Newsletter />
       <Footer />
     </main>
-     
-    </>
   );
 }
